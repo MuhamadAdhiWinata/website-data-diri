@@ -1,5 +1,5 @@
 # website-data-diri
-Website dibuat bertujuan untuk menyelesaikan Tugas Responsi Praktikum Teknologi Cloud
+Website data diri ini dibuat bertujuan untuk menyelesaikan Tugas Responsi Praktikum Teknologi Cloud
 
 ## Installation
 ### Langkah 1: Membuat Direktori 
@@ -126,7 +126,7 @@ lalu copy domain yang ada pada halaman profil contoh :
 ![Screenshot 2024-07-10 015703](https://github.com/MuhamadAdhiWinata/website-data-diri/assets/142725576/e60e92df-0dad-4126-97e2-5d683ce2dc56)
 
 ### Langkah 7: Membuat File HTML untuk Halaman Utama
-Masuk ke direktori website-utama dan buat file index.html yang menampilkan Nama Lengkap, NIM, Program Studi, Hobi, dan Link ke halaman profil untuk halaman utama. Dengan bash berikut lalu paste/letakkan link domain dari halaman profil ke <a href="...">Profil</a> yang memiliki keterangan titik titik  “ ... ” :
+Masuk ke direktori website-utama dan buat file index.html yang menampilkan Nama Lengkap, NIM, Program Studi, Hobi, dan Link ke halaman profil untuk halaman utama. Dengan bash berikut lalu **paste/letakkan link domain dari halaman profil ke ```<a href="...">Profil</a>``` yang memiliki keterangan titik titik  “ ... ” :**
 
 ```bash
 cd ../website-utama
