@@ -1,6 +1,10 @@
 # website-data-diri
 Website data diri ini dibuat bertujuan untuk menyelesaikan Tugas Responsi Praktikum Teknologi Cloud
 
+## Demo 
+
+https://github.com/MuhamadAdhiWinata/website-data-diri/assets/142725576/dbaa4ff1-868d-441d-90dd-893a04025cbf
+
 ## Installation
 ### Langkah 1: Membuat Direktori 
 Pertama, buat dua direktori untuk website utama dan website profil, lalu masuk ke direktori profile.
