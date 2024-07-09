@@ -1,6 +1,5 @@
-# Responsi Praktikum Teknologi Cloud
-
 # website-data-diri
+Website dibuat bertujuan untuk menyelesaikan Tugas Responsi Praktikum Teknologi Cloud
 
 ## Installation
 ### Langkah 1: Membuat Direktori 
