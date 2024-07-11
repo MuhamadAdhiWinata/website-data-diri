@@ -5,6 +5,16 @@ Website data diri ini dibuat bertujuan untuk menyelesaikan Tugas Responsi Prakti
 
 https://github.com/MuhamadAdhiWinata/website-data-diri/assets/142725576/dbaa4ff1-868d-441d-90dd-893a04025cbf
 
+## Struktur Proyek
+- ```website-profil/```
+ ```index.html```
+ ```foto.jpg```
+ ```Dockerfile```
+
+- ```website-utama/```
+ ```index.html```
+ ```Dockerfile```
+
 ## Installation
 ### Langkah 1: Membuat Direktori 
 Pertama, buat dua direktori untuk website utama dan website profil, lalu masuk ke direktori profile.
@@ -204,6 +214,8 @@ Bangun image Docker dan jalankan kontainer untuk website-utama.
 docker build -t website-utama .
 docker run -d --name website-utama --network Muhamad-Adhi-Winata-network -p 8080:80 website-utama
 ```
+
+# Pengujian
 
 Lalu Jalankan dengan : 
 klik menu pada playground lalu pilih Traffic/Ports seperti yang tertera pada gambar : 
