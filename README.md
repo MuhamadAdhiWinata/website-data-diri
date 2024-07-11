@@ -15,7 +15,7 @@ https://github.com/MuhamadAdhiWinata/website-data-diri/assets/142725576/dbaa4ff1
  ```index.html```
  ```Dockerfile```
 
-## Installation
+## Persiapan
 ### Langkah 1: Membuat Direktori 
 Pertama, buat dua direktori untuk website utama dan website profil, lalu masuk ke direktori profile.
 
